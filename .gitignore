@@ -1,0 +1,7 @@
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.env
+data/faiss_index.pkl
+data/books_store.pkl
+.DS_Store
