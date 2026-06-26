@@ -3,14 +3,14 @@ from groq import Groq
 from sentence_transformers import SentenceTransformer
 from rag import load_index, retrieve
 
-# ── Page config ──────────────────────────────────────────────────────────────
+# ── Page config 
 st.set_page_config(
     page_title="📚 Book Recommendation Chatbot",
     page_icon="📚",
     layout="centered"
 )
 
-# ── Custom CSS ────────────────────────────────────────────────────────────────
+# ── Custom CSS
 st.markdown("""
 <style>
     .book-card {
@@ -28,7 +28,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# ── Load models (cached) ──────────────────────────────────────────────────────
+# ── Load models (cached) 
 @st.cache_resource(show_spinner="Loading book database...")
 def load_resources():
     index, books, documents = load_index()
@@ -37,7 +37,7 @@ def load_resources():
 
 index, books, documents, embedding_model = load_resources()
 
-# ── Groq client ───────────────────────────────────────────────────────────────
+# ── Groq client 
 groq_api_key = st.secrets.get("GROQ_API_KEY", None)
 if not groq_api_key:
     import os
@@ -73,7 +73,51 @@ def format_context(retrieved_books):
         context += f"   {b['description']}\n\n"
     return context
 
+SIMILARITY_THRESHOLD = 0.30  # minimum relevance score
+
 def get_response(user_message, chat_history):
+    """Get LLM response with RAG context."""
+    # Retrieve relevant books
+    retrieved = retrieve(user_message, index, books, documents, embedding_model, top_k=3)
+    
+    # Check if any book meets the threshold
+    good_matches = [r for r in retrieved if r["score"] >= SIMILARITY_THRESHOLD]
+    
+    if not good_matches:
+        best_score = int(retrieved[0]["score"] * 100)
+        fallback = (
+            f"I couldn't find a strong match for your request in my book database "
+            f"(best relevance score: {best_score}%). \n\n"
+            "Try describing a **mood**, **genre**, or **theme** instead — for example:\n"
+            "- *'Something dark and dystopian'*\n"
+            "- *'An inspiring non-fiction book'*\n"
+            "- *'I loved Dune, what's similar?'*"
+        )
+        return fallback, retrieved
+    
+    context = format_context(good_matches)
+    
+    # Build messages for API
+    messages = [{"role": "system", "content": SYSTEM_PROMPT}]
+    
+    for msg in chat_history[-6:]:
+        messages.append({"role": msg["role"], "content": msg["content"]})
+    
+    messages.append({
+        "role": "user",
+        "content": f"{context}\n\nUser question: {user_message}"
+    })
+    
+    response = client.chat.completions.create(
+        model=MODEL,
+        messages=messages,
+        max_tokens=800,
+        temperature=0.7,
+    )
+    
+    return response.choices[0].message.content, retrieved
+
+
     """Get LLM response with RAG context."""
     # Retrieve relevant books
     retrieved = retrieve(user_message, index, books, documents, embedding_model, top_k=3)
@@ -101,7 +145,7 @@ def get_response(user_message, chat_history):
     
     return response.choices[0].message.content, retrieved
 
-# ── UI ────────────────────────────────────────────────────────────────────────
+# ── UI 
 st.title("📚 Book Recommendation Chatbot")
 st.caption("Tell me what you're in the mood for, and I'll find the perfect book for you!")
 
