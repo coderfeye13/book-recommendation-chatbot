@@ -625,27 +625,6 @@
     "rating": 4.3
   },
   {
-    "title": "Danse Macabre",
-    "author": "Stephen King",
-    "genre": [
-      "Horror"
-    ],
-    "mood": [
-      "dark",
-      "scary",
-      "atmospheric",
-      "tense"
-    ],
-    "description": "A highly rated horror work by Stephen King. Published in 1980, this book explores themes of art, space.",
-    "themes": [
-      "art",
-      "space"
-    ],
-    "pages": 479,
-    "year": 1980,
-    "rating": 3.8
-  },
-  {
     "title": "It",
     "author": "Stephen King",
     "genre": [
@@ -655,14 +634,18 @@
     "mood": [
       "dark",
       "scary",
-      "atmospheric",
-      "tense"
+      "intense",
+      "nostalgic"
     ],
-    "description": "A highly rated horror work by Stephen King. Published in 1986, this book explores themes of science.",
+    "description": "Seven children in Derry, Maine are terrorized by a shapeshifting monster that exploits their deepest fears, taking the form of Pennywise the Dancing Clown. Decades later, they reunite as adults to confront the evil once more. A masterwork of childhood terror and adult trauma.",
     "themes": [
-      "science"
+      "fear",
+      "childhood",
+      "friendship",
+      "evil",
+      "trauma"
     ],
-    "pages": 1168,
+    "pages": 1138,
     "year": 1986,
     "rating": 4.1
   },
@@ -671,111 +654,2703 @@
     "author": "Stephen King",
     "genre": [
       "Horror",
-      "Fiction",
-      "Thriller"
+      "Psychological"
     ],
     "mood": [
       "dark",
+      "tense",
       "scary",
-      "atmospheric",
-      "tense"
+      "atmospheric"
     ],
-    "description": "A highly rated horror work by Stephen King. Published in 1977, this book explores themes of general fiction, literature.",
+    "description": "Jack Torrance takes a job as winter caretaker at the isolated Overlook Hotel, bringing his wife and psychic son Danny. As winter sets in, the hotel's malevolent presence begins to possess Jack, putting his family in mortal danger.",
     "themes": [
-      "general fiction",
-      "literature"
+      "madness",
+      "isolation",
+      "family",
+      "supernatural",
+      "addiction"
     ],
-    "pages": 506,
+    "pages": 447,
     "year": 1977,
     "rating": 4.2
+  },
+  {
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "genre": [
+      "Thriller",
+      "Mystery",
+      "Psychological"
+    ],
+    "mood": [
+      "tense",
+      "dark",
+      "twisty",
+      "gripping"
+    ],
+    "description": "On the morning of their fifth wedding anniversary, Amy Dunne disappears. Her husband Nick becomes the prime suspect. Told in alternating perspectives, this razor-sharp thriller reveals the toxic truth of their marriage.",
+    "themes": [
+      "marriage",
+      "deception",
+      "media",
+      "identity",
+      "manipulation"
+    ],
+    "pages": 422,
+    "year": 2012,
+    "rating": 4.0
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "genre": [
+      "Thriller",
+      "Mystery",
+      "Crime"
+    ],
+    "mood": [
+      "gripping",
+      "dark",
+      "intense",
+      "suspenseful"
+    ],
+    "description": "Journalist Mikael Blomkvist and hacker Lisbeth Salander investigate the decades-old disappearance of a wealthy patriarch's niece. A Swedish crime masterpiece involving family secrets, corruption, and sexual violence.",
+    "themes": [
+      "corruption",
+      "justice",
+      "violence",
+      "investigation",
+      "family secrets"
+    ],
+    "pages": 672,
+    "year": 2005,
+    "rating": 4.1
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "author": "Thomas Harris",
+    "genre": [
+      "Thriller",
+      "Crime",
+      "Psychological"
+    ],
+    "mood": [
+      "tense",
+      "dark",
+      "gripping",
+      "unsettling"
+    ],
+    "description": "FBI trainee Clarice Starling seeks the help of imprisoned cannibal psychiatrist Hannibal Lecter to catch a serial killer known as Buffalo Bill. A terrifying cat-and-mouse thriller with unforgettable characters.",
+    "themes": [
+      "psychology",
+      "evil",
+      "identity",
+      "gender",
+      "power"
+    ],
+    "pages": 338,
+    "year": 1988,
+    "rating": 4.3
   },
   {
     "title": "Misery",
     "author": "Stephen King",
     "genre": [
       "Horror",
-      "Fiction"
+      "Thriller",
+      "Psychological"
+    ],
+    "mood": [
+      "tense",
+      "claustrophobic",
+      "dark",
+      "intense"
+    ],
+    "description": "Novelist Paul Sheldon is rescued from a car crash by his self-proclaimed number one fan Annie Wilkes. What seems like salvation quickly becomes a terrifying imprisonment as Annie's obsession turns violent.",
+    "themes": [
+      "obsession",
+      "creativity",
+      "captivity",
+      "violence",
+      "writing"
+    ],
+    "pages": 370,
+    "year": 1987,
+    "rating": 4.2
+  },
+  {
+    "title": "Big Little Lies",
+    "author": "Liane Moriarty",
+    "genre": [
+      "Thriller",
+      "Mystery",
+      "Drama"
+    ],
+    "mood": [
+      "suspenseful",
+      "dark",
+      "witty",
+      "gripping"
+    ],
+    "description": "Three women, their seemingly perfect lives and their dark secrets, collide in a murder at a school fundraiser. A sharp and witty thriller that explores domestic violence, bullying, and female friendship.",
+    "themes": [
+      "domestic violence",
+      "friendship",
+      "secrets",
+      "motherhood",
+      "class"
+    ],
+    "pages": 460,
+    "year": 2014,
+    "rating": 4.1
+  },
+  {
+    "title": "In the Woods",
+    "author": "Tana French",
+    "genre": [
+      "Thriller",
+      "Mystery",
+      "Crime"
+    ],
+    "mood": [
+      "atmospheric",
+      "dark",
+      "gripping",
+      "melancholic"
+    ],
+    "description": "Dublin detective Rob Ryan investigates the murder of a young girl on an archaeological site — the same woods where, as a child, he was found clinging to a tree with no memory of what happened to his friends.",
+    "themes": [
+      "memory",
+      "trauma",
+      "investigation",
+      "identity",
+      "childhood"
+    ],
+    "pages": 429,
+    "year": 2007,
+    "rating": 4.0
+  },
+  {
+    "title": "The Woman in the Window",
+    "author": "A.J. Finn",
+    "genre": [
+      "Thriller",
+      "Mystery",
+      "Psychological"
+    ],
+    "mood": [
+      "tense",
+      "claustrophobic",
+      "suspenseful",
+      "dark"
+    ],
+    "description": "Agoraphobic child psychologist Anna Fox spies on her neighbors from her New York home — until she witnesses something she was never meant to see. A Hitchcockian thriller about perception, paranoia, and truth.",
+    "themes": [
+      "isolation",
+      "paranoia",
+      "truth",
+      "trauma",
+      "perception"
+    ],
+    "pages": 427,
+    "year": 2018,
+    "rating": 3.9
+  },
+  {
+    "title": "Sharp Objects",
+    "author": "Gillian Flynn",
+    "genre": [
+      "Thriller",
+      "Mystery",
+      "Psychological"
     ],
     "mood": [
       "dark",
-      "scary",
+      "disturbing",
       "atmospheric",
       "tense"
     ],
-    "description": "A highly rated horror work by Stephen King. Published in 1978, this book explores themes of general fiction, literature.",
+    "description": "Reporter Camille Preaker returns to her small hometown to cover the murders of two young girls. Battling her own demons, she uncovers the dark truth hidden beneath the town's Southern charm.",
     "themes": [
-      "general fiction",
-      "literature"
+      "trauma",
+      "family",
+      "self-harm",
+      "small town",
+      "secrets"
     ],
-    "pages": 382,
-    "year": 1978,
-    "rating": 4.2
+    "pages": 254,
+    "year": 2006,
+    "rating": 3.9
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "genre": [
+      "Thriller",
+      "Mystery",
+      "Adventure"
+    ],
+    "mood": [
+      "exciting",
+      "fast-paced",
+      "gripping",
+      "suspenseful"
+    ],
+    "description": "Harvard symbologist Robert Langdon is drawn into a deadly game involving a murder at the Louvre and a secret that could shake the foundations of Christianity. A global phenomenon of conspiracy and code-breaking.",
+    "themes": [
+      "religion",
+      "conspiracy",
+      "history",
+      "symbols",
+      "art"
+    ],
+    "pages": 689,
+    "year": 2003,
+    "rating": 3.7
   },
   {
     "title": "Carrie",
     "author": "Stephen King",
     "genre": [
       "Horror",
-      "Fiction",
       "Thriller"
     ],
     "mood": [
       "dark",
-      "scary",
-      "atmospheric",
-      "tense"
+      "tense",
+      "disturbing",
+      "scary"
     ],
-    "description": "A highly rated horror work by Stephen King. Published in 1974, this book explores themes of general fiction, literature.",
+    "description": "Shy, bullied teenager Carrie White discovers she has telekinetic powers. When a cruel prank at prom pushes her over the edge, the consequences are catastrophic. King's debut novel remains a chilling portrait of outsider rage.",
     "themes": [
-      "general fiction",
-      "literature"
+      "bullying",
+      "revenge",
+      "power",
+      "adolescence",
+      "religion"
     ],
-    "pages": 255,
+    "pages": 199,
     "year": 1974,
     "rating": 4.0
   },
   {
-    "title": "A Guide to the Good Life",
-    "author": "William B. Irvine",
+    "title": "The Haunting of Hill House",
+    "author": "Shirley Jackson",
     "genre": [
-      "Philosophy"
+      "Horror",
+      "Gothic",
+      "Psychological"
     ],
     "mood": [
-      "reflective",
-      "profound",
-      "enlightening",
-      "thought-provoking"
+      "atmospheric",
+      "unsettling",
+      "dark",
+      "eerie"
     ],
-    "description": "A highly rated philosophy work by William B. Irvine. Published in 2009, this book explores themes of general fiction, literature.",
+    "description": "Four people gather at the notoriously haunted Hill House for a paranormal investigation. As the house begins to exert its power, the line between reality and madness blurs in this classic of literary horror.",
     "themes": [
-      "general fiction",
-      "literature"
+      "haunting",
+      "madness",
+      "isolation",
+      "identity",
+      "belonging"
     ],
-    "pages": 326,
-    "year": 2009,
+    "pages": 246,
+    "year": 1959,
     "rating": 4.0
   },
   {
-    "title": "Meditations",
-    "author": "Marcus Aurelius",
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
     "genre": [
-      "Philosophy",
-      "Fiction",
-      "Self-Help"
+      "Thriller",
+      "Mystery",
+      "Psychological"
     ],
     "mood": [
-      "reflective",
-      "profound",
-      "enlightening",
+      "tense",
+      "suspenseful",
+      "dark",
+      "gripping"
+    ],
+    "description": "Rachel Watson, an alcoholic divorcée who commutes daily by train, becomes obsessed with a couple she sees from her window — until one day the woman disappears and Rachel finds herself entangled in the investigation.",
+    "themes": [
+      "obsession",
+      "memory",
+      "deception",
+      "alcoholism",
+      "marriage"
+    ],
+    "pages": 336,
+    "year": 2015,
+    "rating": 3.9
+  },
+  {
+    "title": "Mexican Gothic",
+    "author": "Silvia Moreno-Garcia",
+    "genre": [
+      "Horror",
+      "Gothic",
+      "Mystery"
+    ],
+    "mood": [
+      "atmospheric",
+      "eerie",
+      "dark",
+      "immersive"
+    ],
+    "description": "In 1950s Mexico, socialite Noemí Taboada visits her cousin at a crumbling mansion in the countryside. What she discovers there is a nightmare of eugenics, fungi, and generations of horror.",
+    "themes": [
+      "colonialism",
+      "eugenics",
+      "family",
+      "horror",
+      "identity"
+    ],
+    "pages": 301,
+    "year": 2020,
+    "rating": 4.0
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": [
+      "Romance",
+      "Classic",
+      "Fiction"
+    ],
+    "mood": [
+      "witty",
+      "romantic",
+      "charming",
+      "lighthearted"
+    ],
+    "description": "Elizabeth Bennet navigates the expectations of 19th-century English society while her relationship with the proud Mr. Darcy evolves from mutual disdain to deep love. Austen's most beloved novel remains a masterpiece of wit and romantic tension.",
+    "themes": [
+      "love",
+      "class",
+      "marriage",
+      "independence",
+      "society"
+    ],
+    "pages": 432,
+    "year": 1813,
+    "rating": 4.3
+  },
+  {
+    "title": "Outlander",
+    "author": "Diana Gabaldon",
+    "genre": [
+      "Romance",
+      "Historical Fiction",
+      "Adventure"
+    ],
+    "mood": [
+      "romantic",
+      "epic",
+      "adventurous",
+      "immersive"
+    ],
+    "description": "In 1945, Claire Randall is transported back to 18th-century Scotland, where she meets the dashing warrior Jamie Fraser. A sweeping romance spanning centuries, combining passion, history, and adventure.",
+    "themes": [
+      "time travel",
+      "love",
+      "war",
+      "identity",
+      "Scotland"
+    ],
+    "pages": 850,
+    "year": 1991,
+    "rating": 4.3
+  },
+  {
+    "title": "The Notebook",
+    "author": "Nicholas Sparks",
+    "genre": [
+      "Romance",
+      "Fiction"
+    ],
+    "mood": [
+      "romantic",
+      "emotional",
+      "heartwarming",
+      "melancholic"
+    ],
+    "description": "A poor young man falls in love with a rich girl in 1940s North Carolina. Years later, an elderly man reads their story to a woman with Alzheimer's. A tearjerker about enduring love and memory.",
+    "themes": [
+      "love",
+      "memory",
+      "class",
+      "aging",
+      "devotion"
+    ],
+    "pages": 214,
+    "year": 1996,
+    "rating": 4.0
+  },
+  {
+    "title": "Me Before You",
+    "author": "Jojo Moyes",
+    "genre": [
+      "Romance",
+      "Drama",
+      "Fiction"
+    ],
+    "mood": [
+      "emotional",
+      "romantic",
+      "heartbreaking",
+      "uplifting"
+    ],
+    "description": "Quirky, small-town Louisa Clark becomes a caregiver for Will Traynor, a paralyzed former banker. Their unlikely bond grows into love, but Will's plans for the future will change everything.",
+    "themes": [
+      "disability",
+      "love",
+      "choice",
+      "life",
+      "sacrifice"
+    ],
+    "pages": 369,
+    "year": 2012,
+    "rating": 4.2
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "genre": [
+      "Romance",
+      "Young Adult",
+      "Drama"
+    ],
+    "mood": [
+      "emotional",
+      "romantic",
+      "heartbreaking",
+      "witty"
+    ],
+    "description": "Hazel Grace Lancaster, a 16-year-old with thyroid cancer, meets Augustus Waters at a support group. Their romance is funny, heartbreaking, and life-affirming — a meditation on love, loss, and the marks we leave on the world.",
+    "themes": [
+      "cancer",
+      "love",
+      "mortality",
+      "coming of age",
+      "meaning"
+    ],
+    "pages": 313,
+    "year": 2012,
+    "rating": 4.2
+  },
+  {
+    "title": "It Ends with Us",
+    "author": "Colleen Hoover",
+    "genre": [
+      "Romance",
+      "Drama",
+      "Fiction"
+    ],
+    "mood": [
+      "emotional",
+      "romantic",
+      "dark",
       "thought-provoking"
     ],
-    "description": "A highly rated philosophy work by Marcus Aurelius. Published in 1626, this book explores themes of philosophy, ethics.",
+    "description": "Lily Bloom moves to Boston and falls for neurosurgeon Ryle Kincaid. But as the relationship progresses, she must confront a painful truth that echoes her own childhood. A powerful exploration of love and domestic violence.",
     "themes": [
-      "philosophy",
-      "ethics"
+      "domestic violence",
+      "love",
+      "strength",
+      "cycles",
+      "choice"
     ],
-    "pages": 203,
-    "year": 1626,
+    "pages": 376,
+    "year": 2016,
+    "rating": 4.4
+  },
+  {
+    "title": "The Hating Game",
+    "author": "Sally Thorne",
+    "genre": [
+      "Romance",
+      "Comedy",
+      "Fiction"
+    ],
+    "mood": [
+      "funny",
+      "romantic",
+      "lighthearted",
+      "witty"
+    ],
+    "description": "Lucy and Joshua are executive assistants forced to share an office and despise each other — until the tension between them tips into something unexpected. A delightful enemies-to-lovers romance.",
+    "themes": [
+      "competition",
+      "love",
+      "workplace",
+      "rivalry",
+      "attraction"
+    ],
+    "pages": 384,
+    "year": 2016,
+    "rating": 4.0
+  },
+  {
+    "title": "Beach Read",
+    "author": "Emily Henry",
+    "genre": [
+      "Romance",
+      "Comedy",
+      "Fiction"
+    ],
+    "mood": [
+      "funny",
+      "romantic",
+      "emotional",
+      "lighthearted"
+    ],
+    "description": "Romance writer January Andrews and literary fiction author Gus Everett swap genres for the summer as a challenge — and fall in love in the process. Witty, warm, and surprisingly deep.",
+    "themes": [
+      "love",
+      "writing",
+      "grief",
+      "healing",
+      "creativity"
+    ],
+    "pages": 361,
+    "year": 2020,
+    "rating": 4.1
+  },
+  {
+    "title": "The Time Traveler's Wife",
+    "author": "Audrey Niffenegger",
+    "genre": [
+      "Romance",
+      "Science Fiction",
+      "Drama"
+    ],
+    "mood": [
+      "romantic",
+      "emotional",
+      "bittersweet",
+      "immersive"
+    ],
+    "description": "Henry DeTamble involuntarily travels through time, leaving his wife Clare alone at unpredictable moments. A love story that spans decades and defies the boundaries of time itself.",
+    "themes": [
+      "time",
+      "love",
+      "loss",
+      "fate",
+      "marriage"
+    ],
+    "pages": 546,
+    "year": 2003,
+    "rating": 4.1
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "genre": [
+      "Romance",
+      "Classic",
+      "Literary Fiction"
+    ],
+    "mood": [
+      "epic",
+      "tragic",
+      "romantic",
+      "immersive"
+    ],
+    "description": "Aristocrat Anna Karenina abandons her husband and son for a passionate affair with the dashing Count Vronsky, setting in motion a tragic chain of events. Tolstoy's sweeping masterpiece of 19th-century Russian society.",
+    "themes": [
+      "love",
+      "society",
+      "betrayal",
+      "fate",
+      "morality"
+    ],
+    "pages": 964,
+    "year": 1878,
+    "rating": 4.1
+  },
+  {
+    "title": "Eleanor Oliphant is Completely Fine",
+    "author": "Gail Honeyman",
+    "genre": [
+      "Romance",
+      "Fiction",
+      "Drama"
+    ],
+    "mood": [
+      "emotional",
+      "heartwarming",
+      "funny",
+      "uplifting"
+    ],
+    "description": "Eleanor Oliphant leads a carefully structured, lonely life until she meets a musician she becomes obsessed with and her IT colleague Raymond. A tender story about trauma, loneliness, and the transformative power of human connection.",
+    "themes": [
+      "loneliness",
+      "trauma",
+      "connection",
+      "healing",
+      "identity"
+    ],
+    "pages": 384,
+    "year": 2017,
+    "rating": 4.2
+  },
+  {
+    "title": "Rebecca",
+    "author": "Daphne du Maurier",
+    "genre": [
+      "Romance",
+      "Gothic",
+      "Mystery"
+    ],
+    "mood": [
+      "atmospheric",
+      "dark",
+      "romantic",
+      "suspenseful"
+    ],
+    "description": "A young woman marries the brooding widower Maxim de Winter and moves to his grand estate Manderley, where the memory of his first wife Rebecca overshadows everything. A gothic romance of obsession and dark secrets.",
+    "themes": [
+      "obsession",
+      "identity",
+      "class",
+      "marriage",
+      "jealousy"
+    ],
+    "pages": 449,
+    "year": 1938,
+    "rating": 4.2
+  },
+  {
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "genre": [
+      "Romance",
+      "Historical Fiction",
+      "Drama"
+    ],
+    "mood": [
+      "epic",
+      "emotional",
+      "romantic",
+      "glamorous"
+    ],
+    "description": "Aging Hollywood icon Evelyn Hugo chooses unknown journalist Monique Grant to tell her life story — a tale of ambition, love, sacrifice, and secrets spanning decades of Old Hollywood glamour.",
+    "themes": [
+      "ambition",
+      "love",
+      "identity",
+      "fame",
+      "sacrifice"
+    ],
+    "pages": 400,
+    "year": 2017,
+    "rating": 4.5
+  },
+  {
+    "title": "Persuasion",
+    "author": "Jane Austen",
+    "genre": [
+      "Romance",
+      "Classic",
+      "Fiction"
+    ],
+    "mood": [
+      "romantic",
+      "melancholic",
+      "witty",
+      "hopeful"
+    ],
+    "description": "Anne Elliot was once persuaded to break off her engagement to Captain Wentworth. Eight years later, he returns. A quietly powerful romance about second chances, regret, and the courage to follow your heart.",
+    "themes": [
+      "second chances",
+      "regret",
+      "love",
+      "society",
+      "independence"
+    ],
+    "pages": 279,
+    "year": 1817,
+    "rating": 4.2
+  },
+  {
+    "title": "Normal People",
+    "author": "Sally Rooney",
+    "genre": [
+      "Romance",
+      "Literary Fiction",
+      "Drama"
+    ],
+    "mood": [
+      "emotional",
+      "realistic",
+      "bittersweet",
+      "intimate"
+    ],
+    "description": "Connell and Marianne grow up in the same small Irish town but inhabit different worlds at school. Their relationship ebbs and flows through college and beyond in this razor-sharp portrait of modern love.",
+    "themes": [
+      "love",
+      "power",
+      "class",
+      "vulnerability",
+      "connection"
+    ],
+    "pages": 266,
+    "year": 2018,
+    "rating": 3.9
+  },
+  {
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "genre": [
+      "Biography",
+      "Memoir",
+      "History"
+    ],
+    "mood": [
+      "moving",
+      "inspiring",
+      "heartbreaking",
+      "profound"
+    ],
+    "description": "The diary kept by Anne Frank while hiding with her family in Nazi-occupied Amsterdam during World War II. One of the most powerful accounts of hope and humanity in the face of unimaginable horror.",
+    "themes": [
+      "war",
+      "hope",
+      "identity",
+      "injustice",
+      "resilience"
+    ],
+    "pages": 283,
+    "year": 1947,
+    "rating": 4.2
+  },
+  {
+    "title": "Long Walk to Freedom",
+    "author": "Nelson Mandela",
+    "genre": [
+      "Biography",
+      "Memoir",
+      "Politics"
+    ],
+    "mood": [
+      "inspiring",
+      "moving",
+      "profound",
+      "epic"
+    ],
+    "description": "Nelson Mandela's autobiography chronicles his childhood in rural South Africa, his development as a freedom fighter, his 27 years in prison, and his role in leading South Africa out of apartheid.",
+    "themes": [
+      "freedom",
+      "justice",
+      "resilience",
+      "leadership",
+      "forgiveness"
+    ],
+    "pages": 656,
+    "year": 1994,
+    "rating": 4.4
+  },
+  {
+    "title": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "genre": [
+      "Biography",
+      "Technology",
+      "Business"
+    ],
+    "mood": [
+      "inspiring",
+      "thought-provoking",
+      "complex",
+      "engaging"
+    ],
+    "description": "The definitive biography of Apple co-founder Steve Jobs, based on exclusive interviews. A portrait of genius, creativity, and relentless perfectionism that changed the world of technology and design.",
+    "themes": [
+      "innovation",
+      "creativity",
+      "leadership",
+      "technology",
+      "perfectionism"
+    ],
+    "pages": 656,
+    "year": 2011,
+    "rating": 4.1
+  },
+  {
+    "title": "The Glass Castle",
+    "author": "Jeannette Walls",
+    "genre": [
+      "Memoir",
+      "Biography",
+      "Drama"
+    ],
+    "mood": [
+      "moving",
+      "inspiring",
+      "heartbreaking",
+      "eye-opening"
+    ],
+    "description": "Jeannette Walls grew up with her siblings in the care of her eccentric, intellectually adventurous parents who were always on the move. A riveting story of poverty, dysfunction, and ultimate resilience.",
+    "themes": [
+      "family",
+      "poverty",
+      "resilience",
+      "childhood",
+      "freedom"
+    ],
+    "pages": 288,
+    "year": 2005,
+    "rating": 4.3
+  },
+  {
+    "title": "I Know Why the Caged Bird Sings",
+    "author": "Maya Angelou",
+    "genre": [
+      "Memoir",
+      "Biography",
+      "Classic"
+    ],
+    "mood": [
+      "inspiring",
+      "moving",
+      "powerful",
+      "profound"
+    ],
+    "description": "Maya Angelou's memoir of her childhood in the American South and San Francisco, confronting racism, trauma, and the struggle for identity and self-acceptance. A landmark of African-American literature.",
+    "themes": [
+      "racism",
+      "identity",
+      "resilience",
+      "trauma",
+      "womanhood"
+    ],
+    "pages": 289,
+    "year": 1969,
+    "rating": 4.3
+  },
+  {
+    "title": "When Breath Becomes Air",
+    "author": "Paul Kalanithi",
+    "genre": [
+      "Memoir",
+      "Biography",
+      "Medicine"
+    ],
+    "mood": [
+      "moving",
+      "profound",
+      "inspiring",
+      "emotional"
+    ],
+    "description": "Neurosurgeon Paul Kalanithi is diagnosed with stage IV lung cancer at 36. What follows is his search for meaning in the face of death. A beautiful, heartbreaking meditation on mortality written by a dying man.",
+    "themes": [
+      "mortality",
+      "meaning",
+      "medicine",
+      "identity",
+      "love"
+    ],
+    "pages": 228,
+    "year": 2016,
+    "rating": 4.5
+  },
+  {
+    "title": "Born a Crime",
+    "author": "Trevor Noah",
+    "genre": [
+      "Memoir",
+      "Biography",
+      "Comedy"
+    ],
+    "mood": [
+      "funny",
+      "moving",
+      "inspiring",
+      "eye-opening"
+    ],
+    "description": "Trevor Noah's memoir about growing up in apartheid and post-apartheid South Africa as the son of a Black Xhosa woman and a white Swiss man. Hilarious, heartfelt, and deeply insightful.",
+    "themes": [
+      "race",
+      "identity",
+      "apartheid",
+      "resilience",
+      "family"
+    ],
+    "pages": 304,
+    "year": 2016,
+    "rating": 4.5
+  },
+  {
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "genre": [
+      "Memoir",
+      "Biography",
+      "Politics"
+    ],
+    "mood": [
+      "inspiring",
+      "warm",
+      "moving",
+      "empowering"
+    ],
+    "description": "Michelle Obama's memoir traces her journey from the South Side of Chicago to the White House. An intimate look at her childhood, career, marriage to Barack Obama, and her years as First Lady.",
+    "themes": [
+      "identity",
+      "ambition",
+      "race",
+      "family",
+      "leadership"
+    ],
+    "pages": 426,
+    "year": 2018,
+    "rating": 4.5
+  },
+  {
+    "title": "Open",
+    "author": "Andre Agassi",
+    "genre": [
+      "Memoir",
+      "Biography",
+      "Sports"
+    ],
+    "mood": [
+      "inspiring",
+      "honest",
+      "moving",
+      "surprising"
+    ],
+    "description": "Tennis legend Andre Agassi's brutally honest memoir reveals that he hated tennis for most of his career. A raw and compelling story of fame, addiction, self-discovery, and the pursuit of meaning.",
+    "themes": [
+      "identity",
+      "fame",
+      "sports",
+      "addiction",
+      "redemption"
+    ],
+    "pages": 386,
+    "year": 2009,
+    "rating": 4.3
+  },
+  {
+    "title": "The Autobiography of Malcolm X",
+    "author": "Malcolm X, Alex Haley",
+    "genre": [
+      "Biography",
+      "Memoir",
+      "History"
+    ],
+    "mood": [
+      "powerful",
+      "moving",
+      "inspiring",
+      "thought-provoking"
+    ],
+    "description": "Malcolm X traces his transformation from street hustler to one of the most influential African-American leaders of the 20th century. A searing indictment of American racism and a testament to self-reinvention.",
+    "themes": [
+      "race",
+      "identity",
+      "Islam",
+      "justice",
+      "transformation"
+    ],
+    "pages": 466,
+    "year": 1965,
+    "rating": 4.4
+  },
+  {
+    "title": "Shoe Dog",
+    "author": "Phil Knight",
+    "genre": [
+      "Memoir",
+      "Biography",
+      "Business"
+    ],
+    "mood": [
+      "inspiring",
+      "engaging",
+      "adventurous",
+      "motivating"
+    ],
+    "description": "Nike founder Phil Knight tells the story of building one of the world's most iconic brands from scratch, starting with $50 borrowed from his father and a handshake deal with a Japanese shoe company.",
+    "themes": [
+      "entrepreneurship",
+      "perseverance",
+      "risk",
+      "sports",
+      "innovation"
+    ],
+    "pages": 386,
+    "year": 2016,
+    "rating": 4.5
+  },
+  {
+    "title": "Just Kids",
+    "author": "Patti Smith",
+    "genre": [
+      "Memoir",
+      "Biography",
+      "Art"
+    ],
+    "mood": [
+      "nostalgic",
+      "romantic",
+      "inspiring",
+      "artistic"
+    ],
+    "description": "Patti Smith's memoir of her formative years in New York City with photographer Robert Mapplethorpe, navigating poverty and ambition to become artists. Winner of the National Book Award.",
+    "themes": [
+      "art",
+      "friendship",
+      "ambition",
+      "New York",
+      "creativity"
+    ],
+    "pages": 278,
+    "year": 2010,
+    "rating": 4.2
+  },
+  {
+    "title": "The Immortal Life of Henrietta Lacks",
+    "author": "Rebecca Skloot",
+    "genre": [
+      "Biography",
+      "Science",
+      "History"
+    ],
+    "mood": [
+      "eye-opening",
+      "moving",
+      "thought-provoking",
+      "engaging"
+    ],
+    "description": "The extraordinary story of Henrietta Lacks, a Black woman whose cancer cells were taken without her knowledge and became one of the most important tools in medicine, revolutionizing scientific research while her family lived in poverty.",
+    "themes": [
+      "race",
+      "ethics",
+      "science",
+      "identity",
+      "justice"
+    ],
+    "pages": 381,
+    "year": 2010,
+    "rating": 4.3
+  },
+  {
+    "title": "Into Thin Air",
+    "author": "Jon Krakauer",
+    "genre": [
+      "Memoir",
+      "Adventure",
+      "Non-Fiction"
+    ],
+    "mood": [
+      "gripping",
+      "tense",
+      "moving",
+      "eye-opening"
+    ],
+    "description": "Jon Krakauer's first-person account of the 1996 Mount Everest disaster, in which eight climbers died during a summit attempt. A harrowing exploration of human ambition, hubris, and the unforgiving power of nature.",
+    "themes": [
+      "survival",
+      "ambition",
+      "nature",
+      "death",
+      "teamwork"
+    ],
+    "pages": 332,
+    "year": 1997,
+    "rating": 4.3
+  },
+  {
+    "title": "The Story of a New Name",
+    "author": "Elena Ferrante",
+    "genre": [
+      "Fiction",
+      "Drama",
+      "Literary"
+    ],
+    "mood": [
+      "intense",
+      "emotional",
+      "immersive",
+      "powerful"
+    ],
+    "description": "The second volume of Elena Ferrante's Neapolitan Novels follows Elena and Lila as they navigate marriage, ambition, and their complex friendship against the backdrop of 1960s Naples.",
+    "themes": [
+      "friendship",
+      "ambition",
+      "identity",
+      "womanhood",
+      "society"
+    ],
+    "pages": 471,
+    "year": 2012,
+    "rating": 4.3
+  },
+  {
+    "title": "Snow",
+    "author": "Orhan Pamuk",
+    "genre": [
+      "Literary Fiction",
+      "Political",
+      "Turkish Literature"
+    ],
+    "mood": [
+      "atmospheric",
+      "melancholic",
+      "thought-provoking",
+      "immersive"
+    ],
+    "description": "Poet Ka visits the remote Turkish city of Kars during a snowstorm, investigating a series of suicides by young women. A meditation on identity, politics, religion, and the clash between East and West.",
+    "themes": [
+      "identity",
+      "religion",
+      "politics",
+      "East vs West",
+      "isolation"
+    ],
+    "pages": 436,
+    "year": 2002,
+    "rating": 3.9
+  },
+  {
+    "title": "My Name is Red",
+    "author": "Orhan Pamuk",
+    "genre": [
+      "Literary Fiction",
+      "Mystery",
+      "Turkish Literature"
+    ],
+    "mood": [
+      "atmospheric",
+      "immersive",
+      "thought-provoking",
+      "artistic"
+    ],
+    "description": "Set in 16th-century Ottoman Istanbul, a miniaturist painter is murdered and his colleagues must uncover the truth. A dazzling novel about art, religion, and the nature of beauty told from multiple perspectives.",
+    "themes": [
+      "art",
+      "identity",
+      "religion",
+      "East vs West",
+      "murder"
+    ],
+    "pages": 453,
+    "year": 1998,
+    "rating": 4.1
+  },
+  {
+    "title": "The Museum of Innocence",
+    "author": "Orhan Pamuk",
+    "genre": [
+      "Literary Fiction",
+      "Romance",
+      "Turkish Literature"
+    ],
+    "mood": [
+      "melancholic",
+      "romantic",
+      "nostalgic",
+      "immersive"
+    ],
+    "description": "A wealthy Istanbul businessman becomes obsessed with a distant relative and the artifacts of their brief affair. A lush meditation on love, obsession, and memory set against the backdrop of Istanbul in the 1970s.",
+    "themes": [
+      "obsession",
+      "love",
+      "memory",
+      "Istanbul",
+      "class"
+    ],
+    "pages": 535,
+    "year": 2008,
+    "rating": 4.0
+  },
+  {
+    "title": "Istanbul: Memories and the City",
+    "author": "Orhan Pamuk",
+    "genre": [
+      "Memoir",
+      "Turkish Literature",
+      "History"
+    ],
+    "mood": [
+      "nostalgic",
+      "melancholic",
+      "reflective",
+      "atmospheric"
+    ],
+    "description": "Pamuk's meditation on the city of his birth — its beauty, its decay, and the concept of hüzün (collective melancholy) that permeates Istanbul. A deeply personal exploration of identity and belonging.",
+    "themes": [
+      "identity",
+      "memory",
+      "city",
+      "melancholy",
+      "history"
+    ],
+    "pages": 338,
+    "year": 2003,
+    "rating": 4.0
+  },
+  {
+    "title": "Saatleri Ayarlama Enstitüsü",
+    "author": "Ahmet Hamdi Tanpınar",
+    "genre": [
+      "Literary Fiction",
+      "Satire",
+      "Turkish Literature"
+    ],
+    "mood": [
+      "funny",
+      "satirical",
+      "melancholic",
+      "immersive"
+    ],
+    "description": "Hayri İrdal joins the Institute for the Regulation of Clocks, a bizarre bureaucratic institution in 20th-century Turkey. A witty and profound satire about modernization, tradition, and the Turkish identity crisis.",
+    "themes": [
+      "modernization",
+      "identity",
+      "bureaucracy",
+      "time",
+      "tradition"
+    ],
+    "pages": 400,
+    "year": 1961,
+    "rating": 4.2
+  },
+  {
+    "title": "Huzur",
+    "author": "Ahmet Hamdi Tanpınar",
+    "genre": [
+      "Literary Fiction",
+      "Romance",
+      "Turkish Literature"
+    ],
+    "mood": [
+      "melancholic",
+      "romantic",
+      "reflective",
+      "nostalgic"
+    ],
+    "description": "Set in Istanbul during the final days of World War II, this novel follows intellectual Mümtaz and his troubled love for Nuran. A lyrical meditation on Turkish culture, music, and the clash of East and West.",
+    "themes": [
+      "love",
+      "music",
+      "identity",
+      "culture",
+      "Istanbul"
+    ],
+    "pages": 312,
+    "year": 1949,
+    "rating": 4.3
+  },
+  {
+    "title": "Sinekli Bakkal",
+    "author": "Halide Edib Adıvar",
+    "genre": [
+      "Literary Fiction",
+      "Historical",
+      "Turkish Literature"
+    ],
+    "mood": [
+      "epic",
+      "moving",
+      "immersive",
+      "historical"
+    ],
+    "description": "Set in a traditional Istanbul neighborhood, this novel explores the lives of ordinary people during the late Ottoman period. A rich portrait of Turkish society, culture, and the struggle for modernization.",
+    "themes": [
+      "tradition",
+      "modernization",
+      "community",
+      "Ottoman",
+      "identity"
+    ],
+    "pages": 350,
+    "year": 1935,
+    "rating": 4.1
+  },
+  {
+    "title": "Tutunamayanlar",
+    "author": "Oğuz Atay",
+    "genre": [
+      "Literary Fiction",
+      "Existential",
+      "Turkish Literature"
+    ],
+    "mood": [
+      "dark",
+      "philosophical",
+      "complex",
+      "immersive"
+    ],
+    "description": "Considered the greatest Turkish novel of the 20th century, this experimental work follows Turgut Özben searching for the meaning behind his friend Selim's suicide. A dense, brilliant exploration of the modern Turkish intellectual.",
+    "themes": [
+      "identity",
+      "alienation",
+      "suicide",
+      "modernization",
+      "existentialism"
+    ],
+    "pages": 724,
+    "year": 1972,
+    "rating": 4.5
+  },
+  {
+    "title": "Mavi Anatolia",
+    "author": "Cevat Şakir Kabaağaçlı (Halikarnas Balıkçısı)",
+    "genre": [
+      "Literary Fiction",
+      "Adventure",
+      "Turkish Literature"
+    ],
+    "mood": [
+      "lyrical",
+      "adventurous",
+      "nostalgic",
+      "atmospheric"
+    ],
+    "description": "The fisherman of Halicarnassus writes about the Aegean coast, its people, myths, and the sea. A lyrical celebration of Anatolian life, nature, and ancient civilizations.",
+    "themes": [
+      "sea",
+      "nature",
+      "mythology",
+      "Anatolia",
+      "freedom"
+    ],
+    "pages": 280,
+    "year": 1939,
+    "rating": 4.1
+  },
+  {
+    "title": "İnce Memed",
+    "author": "Yaşar Kemal",
+    "genre": [
+      "Literary Fiction",
+      "Epic",
+      "Turkish Literature"
+    ],
+    "mood": [
+      "epic",
+      "moving",
+      "adventurous",
+      "powerful"
+    ],
+    "description": "Young Memed escapes the tyranny of the local lord Abdi Ağa and becomes a mountain outlaw, fighting for justice for the poor peasants of the Çukurova plain. Turkey's most celebrated epic novel.",
+    "themes": [
+      "justice",
+      "freedom",
+      "poverty",
+      "courage",
+      "Anatolia"
+    ],
+    "pages": 467,
+    "year": 1955,
+    "rating": 4.4
+  },
+  {
+    "title": "Kürk Mantolu Madonna",
+    "author": "Sabahattin Ali",
+    "genre": [
+      "Romance",
+      "Literary Fiction",
+      "Turkish Literature"
+    ],
+    "mood": [
+      "romantic",
+      "melancholic",
+      "tragic",
+      "immersive"
+    ],
+    "description": "A young Turkish man in Berlin falls deeply in love with Maria Puder, a mysterious and independent woman. A hauntingly beautiful love story about the impossibility of love across cultural and social divides.",
+    "themes": [
+      "love",
+      "freedom",
+      "identity",
+      "loneliness",
+      "tragedy"
+    ],
+    "pages": 186,
+    "year": 1943,
+    "rating": 4.5
+  },
+  {
+    "title": "Çalıkuşu",
+    "author": "Reşat Nuri Güntekin",
+    "genre": [
+      "Romance",
+      "Literary Fiction",
+      "Turkish Literature"
+    ],
+    "mood": [
+      "romantic",
+      "moving",
+      "nostalgic",
+      "charming"
+    ],
+    "description": "Feride, a spirited young woman dubbed 'Çalıkuşu' (Wren), loses everything and becomes a schoolteacher traveling across Anatolia. A beloved Turkish classic about love, resilience, and self-discovery.",
+    "themes": [
+      "love",
+      "independence",
+      "Anatolia",
+      "resilience",
+      "coming of age"
+    ],
+    "pages": 412,
+    "year": 1922,
+    "rating": 4.4
+  },
+  {
+    "title": "Yaban",
+    "author": "Yakup Kadri Karaosmanoğlu",
+    "genre": [
+      "Literary Fiction",
+      "Historical",
+      "Turkish Literature"
+    ],
+    "mood": [
+      "dark",
+      "melancholic",
+      "thought-provoking",
+      "powerful"
+    ],
+    "description": "A wounded World War I officer takes refuge in an Anatolian village, observing the harsh reality of rural life and the disconnect between Istanbul intellectuals and ordinary Anatolian people.",
+    "themes": [
+      "war",
+      "identity",
+      "class",
+      "Anatolia",
+      "modernization"
+    ],
+    "pages": 184,
+    "year": 1932,
+    "rating": 4.1
+  },
+  {
+    "title": "Mahşer",
+    "author": "Peyami Safa",
+    "genre": [
+      "Literary Fiction",
+      "Drama",
+      "Turkish Literature"
+    ],
+    "mood": [
+      "dark",
+      "moving",
+      "complex",
+      "psychological"
+    ],
+    "description": "Set during the Allied occupation of Istanbul after World War I, this novel explores the moral and spiritual crises of Turkish intellectuals navigating foreign occupation and cultural identity.",
+    "themes": [
+      "occupation",
+      "identity",
+      "morality",
+      "Istanbul",
+      "crisis"
+    ],
+    "pages": 295,
+    "year": 1924,
+    "rating": 4.0
+  },
+  {
+    "title": "The New Life",
+    "author": "Orhan Pamuk",
+    "genre": [
+      "Literary Fiction",
+      "Adventure",
+      "Turkish Literature"
+    ],
+    "mood": [
+      "mysterious",
+      "immersive",
+      "philosophical",
+      "adventurous"
+    ],
+    "description": "A young Turkish student reads a book that changes his life completely, sending him on a restless journey across Turkey by bus. A hypnotic meditation on obsession, identity, and the transformative power of literature.",
+    "themes": [
+      "obsession",
+      "identity",
+      "literature",
+      "journey",
+      "Turkey"
+    ],
+    "pages": 296,
+    "year": 1994,
+    "rating": 3.8
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": [
+      "Classic",
+      "Fiction",
+      "Drama"
+    ],
+    "mood": [
+      "moving",
+      "thought-provoking",
+      "nostalgic",
+      "powerful"
+    ],
+    "description": "Young Scout Finch watches her father, lawyer Atticus Finch, defend a Black man falsely accused of raping a white woman in Depression-era Alabama. A Pulitzer Prize-winning masterpiece of justice, compassion, and moral courage.",
+    "themes": [
+      "racism",
+      "justice",
+      "childhood",
+      "compassion",
+      "morality"
+    ],
+    "pages": 281,
+    "year": 1960,
+    "rating": 4.3
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "genre": [
+      "Classic",
+      "Magical Realism",
+      "Literary Fiction"
+    ],
+    "mood": [
+      "immersive",
+      "magical",
+      "epic",
+      "melancholic"
+    ],
+    "description": "The Buendía family founds the town of Macondo and over seven generations experiences love, war, and solitude. García Márquez's masterpiece invented magical realism and won the Nobel Prize for Literature.",
+    "themes": [
+      "family",
+      "solitude",
+      "time",
+      "history",
+      "fate"
+    ],
+    "pages": 417,
+    "year": 1967,
+    "rating": 4.1
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "genre": [
+      "Classic",
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "mood": [
+      "dark",
+      "thought-provoking",
+      "intense",
+      "unsettling"
+    ],
+    "description": "In a future America, fireman Guy Montag burns books for a living. When he begins to question his society's ban on reading, he embarks on a dangerous journey toward knowledge and resistance.",
+    "themes": [
+      "censorship",
+      "knowledge",
+      "conformity",
+      "technology",
+      "freedom"
+    ],
+    "pages": 256,
+    "year": 1953,
+    "rating": 4.0
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": [
+      "Classic",
+      "Fiction",
+      "Coming of Age"
+    ],
+    "mood": [
+      "melancholic",
+      "rebellious",
+      "nostalgic",
+      "introspective"
+    ],
+    "description": "Teenager Holden Caulfield wanders New York City after being expelled from prep school, railing against the phoniness of the adult world. A landmark of alienation and adolescent disillusionment.",
+    "themes": [
+      "alienation",
+      "identity",
+      "coming of age",
+      "innocence",
+      "society"
+    ],
+    "pages": 277,
+    "year": 1951,
+    "rating": 3.8
+  },
+  {
+    "title": "Of Mice and Men",
+    "author": "John Steinbeck",
+    "genre": [
+      "Classic",
+      "Fiction",
+      "Drama"
+    ],
+    "mood": [
+      "moving",
+      "dark",
+      "melancholic",
+      "powerful"
+    ],
+    "description": "Two displaced migrant ranch workers, George Milton and Lennie Small, dream of owning their own farm during the Great Depression. A heartbreaking novella about friendship, dreams, and the harsh realities of life.",
+    "themes": [
+      "friendship",
+      "dreams",
+      "loneliness",
+      "sacrifice",
+      "poverty"
+    ],
+    "pages": 187,
+    "year": 1937,
+    "rating": 3.9
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "genre": [
+      "Classic",
+      "Romance",
+      "Gothic"
+    ],
+    "mood": [
+      "romantic",
+      "gothic",
+      "empowering",
+      "atmospheric"
+    ],
+    "description": "Orphan Jane Eyre grows up to become a governess at Thornfield Hall, where she falls in love with the brooding Mr. Rochester. A landmark feminist novel about independence, morality, and passionate love.",
+    "themes": [
+      "independence",
+      "love",
+      "class",
+      "morality",
+      "identity"
+    ],
+    "pages": 532,
+    "year": 1847,
+    "rating": 4.2
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "genre": [
+      "Classic",
+      "Romance",
+      "Gothic"
+    ],
+    "mood": [
+      "dark",
+      "romantic",
+      "gothic",
+      "passionate"
+    ],
+    "description": "The passionate and destructive love between Heathcliff and Catherine Earnshaw echoes across generations on the Yorkshire moors. A gothic masterpiece of obsession, revenge, and doomed love.",
+    "themes": [
+      "obsession",
+      "revenge",
+      "class",
+      "love",
+      "nature"
+    ],
+    "pages": 348,
+    "year": 1847,
+    "rating": 4.0
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "genre": [
+      "Classic",
+      "Gothic",
+      "Philosophical"
+    ],
+    "mood": [
+      "dark",
+      "witty",
+      "atmospheric",
+      "thought-provoking"
+    ],
+    "description": "Beautiful young Dorian Gray sells his soul so that his portrait ages while he remains forever young. As he descends into a life of hedonism and corruption, the portrait reflects the true state of his soul.",
+    "themes": [
+      "vanity",
+      "corruption",
+      "beauty",
+      "morality",
+      "aestheticism"
+    ],
+    "pages": 254,
+    "year": 1890,
+    "rating": 4.1
+  },
+  {
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "genre": [
+      "Classic",
+      "Historical Fiction",
+      "Drama"
+    ],
+    "mood": [
+      "epic",
+      "moving",
+      "powerful",
+      "inspiring"
+    ],
+    "description": "Ex-convict Jean Valjean flees a relentless police inspector while trying to redeem himself and care for an orphan girl in post-Napoleonic France. Hugo's epic masterpiece of justice, redemption, and the human spirit.",
+    "themes": [
+      "justice",
+      "redemption",
+      "poverty",
+      "revolution",
+      "compassion"
+    ],
+    "pages": 1463,
+    "year": 1862,
+    "rating": 4.2
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "genre": [
+      "Classic",
+      "Philosophical",
+      "Literary Fiction"
+    ],
+    "mood": [
+      "intense",
+      "profound",
+      "dark",
+      "thought-provoking"
+    ],
+    "description": "Three brothers — the sensual Dmitri, the intellectual Ivan, and the spiritual Alyosha — are united by their father's murder. Dostoevsky's final and greatest novel is a profound meditation on faith, doubt, and the nature of evil.",
+    "themes": [
+      "faith",
+      "morality",
+      "family",
+      "evil",
+      "free will"
+    ],
+    "pages": 824,
+    "year": 1880,
+    "rating": 4.4
+  },
+  {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "genre": [
+      "Classic",
+      "Adventure",
+      "Comedy"
+    ],
+    "mood": [
+      "funny",
+      "epic",
+      "philosophical",
+      "adventurous"
+    ],
+    "description": "An aging Spanish nobleman reads so many chivalric romances that he loses his mind and sets out as a knight-errant with his squire Sancho Panza. The first modern novel and a timeless exploration of idealism vs. reality.",
+    "themes": [
+      "idealism",
+      "reality",
+      "identity",
+      "madness",
+      "adventure"
+    ],
+    "pages": 1056,
+    "year": 1605,
+    "rating": 3.9
+  },
+  {
+    "title": "Middlemarch",
+    "author": "George Eliot",
+    "genre": [
+      "Classic",
+      "Literary Fiction",
+      "Drama"
+    ],
+    "mood": [
+      "immersive",
+      "profound",
+      "realistic",
+      "moving"
+    ],
+    "description": "Set in the English Midlands in the 1830s, this sweeping novel follows multiple characters navigating marriage, politics, religion, and reform. Virginia Woolf called it 'one of the few English novels written for grown-up people.'",
+    "themes": [
+      "marriage",
+      "ambition",
+      "politics",
+      "society",
+      "idealism"
+    ],
+    "pages": 904,
+    "year": 1871,
+    "rating": 4.2
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "genre": [
+      "Classic",
+      "Epic",
+      "Adventure"
+    ],
+    "mood": [
+      "epic",
+      "adventurous",
+      "immersive",
+      "timeless"
+    ],
+    "description": "Odysseus's ten-year journey home to Ithaca after the fall of Troy, battling monsters, gods, and his own desires. The foundational text of Western literature and an eternal exploration of longing and perseverance.",
+    "themes": [
+      "homecoming",
+      "perseverance",
+      "identity",
+      "fate",
+      "cunning"
+    ],
+    "pages": 541,
+    "year": -800,
+    "rating": 4.1
+  },
+  {
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "genre": [
+      "Classic",
+      "Adventure",
+      "Literary Fiction"
+    ],
+    "mood": [
+      "epic",
+      "atmospheric",
+      "intense",
+      "philosophical"
+    ],
+    "description": "Captain Ahab's obsessive hunt for the white whale Moby Dick leads his crew to destruction. Melville's monumental novel is a meditation on obsession, fate, and the indifference of the natural world.",
+    "themes": [
+      "obsession",
+      "nature",
+      "fate",
+      "identity",
+      "vengeance"
+    ],
+    "pages": 720,
+    "year": 1851,
+    "rating": 3.8
+  },
+  {
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "genre": [
+      "Classic",
+      "Philosophical",
+      "Literary Fiction"
+    ],
+    "mood": [
+      "dark",
+      "detached",
+      "thought-provoking",
+      "unsettling"
+    ],
+    "description": "Meursault, an indifferent French Algerian man, kills an Arab on a beach and faces trial — more for his emotional detachment than the act itself. A cornerstone of existentialist literature and the philosophy of the absurd.",
+    "themes": [
+      "absurdism",
+      "existentialism",
+      "indifference",
+      "society",
+      "death"
+    ],
+    "pages": 159,
+    "year": 1942,
+    "rating": 4.0
+  },
+  {
+    "title": "Good to Great",
+    "author": "Jim Collins",
+    "genre": [
+      "Non-Fiction",
+      "Business",
+      "Leadership"
+    ],
+    "mood": [
+      "motivating",
+      "analytical",
+      "insightful",
+      "practical"
+    ],
+    "description": "Jim Collins and his research team studied 1,435 companies over 40 years to discover what makes a company go from good to great. The findings reveal counterintuitive principles of leadership, culture, and strategy.",
+    "themes": [
+      "leadership",
+      "strategy",
+      "discipline",
+      "culture",
+      "success"
+    ],
+    "pages": 320,
+    "year": 2001,
+    "rating": 4.1
+  },
+  {
+    "title": "The Hard Thing About Hard Things",
+    "author": "Ben Horowitz",
+    "genre": [
+      "Non-Fiction",
+      "Business",
+      "Entrepreneurship"
+    ],
+    "mood": [
+      "honest",
+      "practical",
+      "motivating",
+      "insightful"
+    ],
+    "description": "Ben Horowitz, co-founder of Andreessen Horowitz, shares the brutal realities of building a startup — layoffs, product failures, and near-death experiences — with advice no business school teaches.",
+    "themes": [
+      "entrepreneurship",
+      "leadership",
+      "struggle",
+      "culture",
+      "management"
+    ],
+    "pages": 304,
+    "year": 2014,
+    "rating": 4.3
+  },
+  {
+    "title": "Thinking in Systems",
+    "author": "Donella Meadows",
+    "genre": [
+      "Non-Fiction",
+      "Business",
+      "Science"
+    ],
+    "mood": [
+      "educational",
+      "enlightening",
+      "practical",
+      "thought-provoking"
+    ],
+    "description": "A primer on systems thinking — how to understand complex systems, identify leverage points, and avoid common traps. Essential reading for anyone trying to solve complex problems in business, ecology, or society.",
+    "themes": [
+      "systems",
+      "complexity",
+      "sustainability",
+      "feedback",
+      "problem-solving"
+    ],
+    "pages": 218,
+    "year": 2008,
+    "rating": 4.3
+  },
+  {
+    "title": "Hooked",
+    "author": "Nir Eyal",
+    "genre": [
+      "Non-Fiction",
+      "Business",
+      "Psychology"
+    ],
+    "mood": [
+      "practical",
+      "insightful",
+      "thought-provoking",
+      "educational"
+    ],
+    "description": "How do successful companies create products people can't put down? Nir Eyal reveals the Hook Model — a four-step process that builds habit-forming products by triggering, actioning, and rewarding users.",
+    "themes": [
+      "habits",
+      "product design",
+      "psychology",
+      "technology",
+      "persuasion"
+    ],
+    "pages": 256,
+    "year": 2014,
+    "rating": 4.1
+  },
+  {
+    "title": "The Innovator's Dilemma",
+    "author": "Clayton M. Christensen",
+    "genre": [
+      "Non-Fiction",
+      "Business",
+      "Technology"
+    ],
+    "mood": [
+      "thought-provoking",
+      "educational",
+      "analytical",
+      "insightful"
+    ],
+    "description": "Why do great companies fail? Christensen argues that well-managed firms can do everything right and still lose market leadership to disruptive technologies. A business classic that invented the concept of disruptive innovation.",
+    "themes": [
+      "innovation",
+      "disruption",
+      "technology",
+      "strategy",
+      "failure"
+    ],
+    "pages": 288,
+    "year": 1997,
+    "rating": 4.1
+  },
+  {
+    "title": "Built to Last",
+    "author": "Jim Collins, Jerry I. Porras",
+    "genre": [
+      "Non-Fiction",
+      "Business",
+      "Leadership"
+    ],
+    "mood": [
+      "motivating",
+      "analytical",
+      "insightful",
+      "educational"
+    ],
+    "description": "A study of 18 exceptional and long-lasting companies like HP, 3M, and Disney, revealing the underlying principles that distinguish visionary companies from their competitors.",
+    "themes": [
+      "vision",
+      "culture",
+      "leadership",
+      "values",
+      "success"
+    ],
+    "pages": 368,
+    "year": 1994,
+    "rating": 4.0
+  },
+  {
+    "title": "Never Split the Difference",
+    "author": "Chris Voss",
+    "genre": [
+      "Non-Fiction",
+      "Business",
+      "Psychology"
+    ],
+    "mood": [
+      "practical",
+      "engaging",
+      "insightful",
+      "motivating"
+    ],
+    "description": "Former FBI hostage negotiator Chris Voss reveals the counter-intuitive tactics and strategies you can use to become more persuasive in every aspect of your life, from the boardroom to the bedroom.",
+    "themes": [
+      "negotiation",
+      "psychology",
+      "communication",
+      "strategy",
+      "persuasion"
+    ],
+    "pages": 288,
+    "year": 2016,
+    "rating": 4.4
+  },
+  {
+    "title": "Crossing the Chasm",
+    "author": "Geoffrey A. Moore",
+    "genre": [
+      "Non-Fiction",
+      "Business",
+      "Technology"
+    ],
+    "mood": [
+      "educational",
+      "practical",
+      "analytical",
+      "insightful"
+    ],
+    "description": "The definitive guide to marketing high-tech products to mainstream customers. Moore identifies the chasm between early adopters and the early majority and provides strategies to cross it successfully.",
+    "themes": [
+      "marketing",
+      "technology",
+      "strategy",
+      "innovation",
+      "growth"
+    ],
+    "pages": 227,
+    "year": 1991,
+    "rating": 4.0
+  },
+  {
+    "title": "Good Strategy Bad Strategy",
+    "author": "Richard Rumelt",
+    "genre": [
+      "Non-Fiction",
+      "Business",
+      "Leadership"
+    ],
+    "mood": [
+      "analytical",
+      "educational",
+      "thought-provoking",
+      "practical"
+    ],
+    "description": "Rumelt argues that most 'strategies' are just goals dressed up in fancy language. Real strategy involves diagnosis, guiding policy, and coherent action. A sharp critique of business strategy thinking.",
+    "themes": [
+      "strategy",
+      "leadership",
+      "competition",
+      "focus",
+      "analysis"
+    ],
+    "pages": 336,
+    "year": 2011,
+    "rating": 4.2
+  },
+  {
+    "title": "The E-Myth Revisited",
+    "author": "Michael E. Gerber",
+    "genre": [
+      "Non-Fiction",
+      "Business",
+      "Entrepreneurship"
+    ],
+    "mood": [
+      "practical",
+      "motivating",
+      "educational",
+      "eye-opening"
+    ],
+    "description": "Most small businesses fail because their owners work IN the business, not ON it. Gerber explains the fatal assumption that a person who understands the technical work of a business can run one.",
+    "themes": [
+      "entrepreneurship",
+      "systems",
+      "growth",
+      "management",
+      "small business"
+    ],
+    "pages": 288,
+    "year": 1995,
+    "rating": 4.1
+  },
+  {
+    "title": "Measure What Matters",
+    "author": "John Doerr",
+    "genre": [
+      "Non-Fiction",
+      "Business",
+      "Leadership"
+    ],
+    "mood": [
+      "practical",
+      "motivating",
+      "educational",
+      "insightful"
+    ],
+    "description": "How Google, Intel, and other top companies use OKRs (Objectives and Key Results) to drive 10x growth. John Doerr, who introduced OKRs to Google, shares the framework with case studies from leading companies.",
+    "themes": [
+      "goals",
+      "leadership",
+      "growth",
+      "culture",
+      "accountability"
+    ],
+    "pages": 320,
+    "year": 2018,
+    "rating": 4.0
+  },
+  {
+    "title": "High Output Management",
+    "author": "Andrew S. Grove",
+    "genre": [
+      "Non-Fiction",
+      "Business",
+      "Leadership"
+    ],
+    "mood": [
+      "practical",
+      "educational",
+      "analytical",
+      "insightful"
+    ],
+    "description": "Intel CEO Andy Grove's definitive guide to management, revealing how to build and motivate teams, run effective meetings, and make better decisions. A Silicon Valley bible that shaped a generation of tech leaders.",
+    "themes": [
+      "management",
+      "leadership",
+      "productivity",
+      "teams",
+      "decision-making"
+    ],
+    "pages": 272,
+    "year": 1983,
+    "rating": 4.3
+  },
+  {
+    "title": "Traction",
+    "author": "Gabriel Weinberg, Justin Mares",
+    "genre": [
+      "Non-Fiction",
+      "Business",
+      "Entrepreneurship"
+    ],
+    "mood": [
+      "practical",
+      "motivating",
+      "educational",
+      "useful"
+    ],
+    "description": "Almost every failed startup has a product. What they don't have is traction. This book presents 19 channels for customer growth and a framework (Bullseye) for finding which ones work for your business.",
+    "themes": [
+      "growth",
+      "marketing",
+      "startups",
+      "channels",
+      "strategy"
+    ],
+    "pages": 264,
+    "year": 2014,
+    "rating": 4.2
+  },
+  {
+    "title": "The Founder's Dilemmas",
+    "author": "Noam Wasserman",
+    "genre": [
+      "Non-Fiction",
+      "Business",
+      "Entrepreneurship"
+    ],
+    "mood": [
+      "analytical",
+      "educational",
+      "thought-provoking",
+      "practical"
+    ],
+    "description": "Harvard professor Noam Wasserman analyzes thousands of startups to reveal how founders' early decisions about team, equity, and control affect company outcomes — and when the 'rich vs. king' dilemma strikes.",
+    "themes": [
+      "entrepreneurship",
+      "equity",
+      "leadership",
+      "co-founders",
+      "control"
+    ],
+    "pages": 496,
+    "year": 2012,
+    "rating": 4.0
+  },
+  {
+    "title": "Multipliers",
+    "author": "Liz Wiseman",
+    "genre": [
+      "Non-Fiction",
+      "Business",
+      "Leadership"
+    ],
+    "mood": [
+      "motivating",
+      "insightful",
+      "practical",
+      "educational"
+    ],
+    "description": "Some leaders drain intelligence from their teams while others amplify it. Wiseman identifies what distinguishes 'Multipliers' from 'Diminishers' and how to become a leader who gets twice as much from people.",
+    "themes": [
+      "leadership",
+      "teams",
+      "intelligence",
+      "management",
+      "culture"
+    ],
+    "pages": 320,
+    "year": 2010,
+    "rating": 4.1
+  },
+  {
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "genre": [
+      "Non-Fiction",
+      "Science",
+      "Physics"
+    ],
+    "mood": [
+      "enlightening",
+      "mind-blowing",
+      "educational",
+      "accessible"
+    ],
+    "description": "Stephen Hawking's landmark book attempts to explain cosmology — the Big Bang, black holes, time, and the nature of the universe — to general readers. One of the most accessible science books ever written.",
+    "themes": [
+      "cosmology",
+      "time",
+      "black holes",
+      "universe",
+      "physics"
+    ],
+    "pages": 212,
+    "year": 1988,
+    "rating": 4.2
+  },
+  {
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "genre": [
+      "Non-Fiction",
+      "Science",
+      "Biology"
+    ],
+    "mood": [
+      "enlightening",
+      "thought-provoking",
+      "educational",
+      "mind-blowing"
+    ],
+    "description": "Dawkins argues that evolution occurs at the level of genes, not organisms or species — introducing concepts like the 'selfish gene' and 'meme'. A landmark work of evolutionary biology that changed how we think about life.",
+    "themes": [
+      "evolution",
+      "genetics",
+      "biology",
+      "natural selection",
+      "behavior"
+    ],
+    "pages": 360,
+    "year": 1976,
+    "rating": 4.2
+  },
+  {
+    "title": "The Origin of Species",
+    "author": "Charles Darwin",
+    "genre": [
+      "Non-Fiction",
+      "Science",
+      "Biology",
+      "Classic"
+    ],
+    "mood": [
+      "educational",
+      "profound",
+      "enlightening",
+      "groundbreaking"
+    ],
+    "description": "Darwin's revolutionary 1859 work presenting his theory of evolution by natural selection, backed by years of observation and evidence. One of the most important books ever written, it transformed our understanding of life on Earth.",
+    "themes": [
+      "evolution",
+      "natural selection",
+      "biology",
+      "science",
+      "adaptation"
+    ],
+    "pages": 528,
+    "year": 1859,
+    "rating": 4.1
+  },
+  {
+    "title": "Cosmos",
+    "author": "Carl Sagan",
+    "genre": [
+      "Non-Fiction",
+      "Science",
+      "Astronomy"
+    ],
+    "mood": [
+      "inspiring",
+      "enlightening",
+      "philosophical",
+      "awe-inspiring"
+    ],
+    "description": "Carl Sagan's sweeping exploration of the universe and humanity's place in it. From the origins of life to the vastness of space, Sagan writes with poetic wonder about science, history, and our cosmic future.",
+    "themes": [
+      "cosmos",
+      "science",
+      "humanity",
+      "exploration",
+      "wonder"
+    ],
+    "pages": 365,
+    "year": 1980,
+    "rating": 4.4
+  },
+  {
+    "title": "The Gene",
+    "author": "Siddhartha Mukherjee",
+    "genre": [
+      "Non-Fiction",
+      "Science",
+      "Biology"
+    ],
+    "mood": [
+      "educational",
+      "enlightening",
+      "engaging",
+      "profound"
+    ],
+    "description": "A sweeping history of the gene — from Mendel's pea plants to CRISPR gene editing — and what the science of heredity means for humanity's future. A brilliant narrative of one of science's most important stories.",
+    "themes": [
+      "genetics",
+      "heredity",
+      "science",
+      "ethics",
+      "medicine"
+    ],
+    "pages": 592,
+    "year": 2016,
+    "rating": 4.4
+  },
+  {
+    "title": "The Emperor of All Maladies",
+    "author": "Siddhartha Mukherjee",
+    "genre": [
+      "Non-Fiction",
+      "Science",
+      "Medicine"
+    ],
+    "mood": [
+      "profound",
+      "enlightening",
+      "moving",
+      "educational"
+    ],
+    "description": "A biography of cancer — its history, science, and the extraordinary efforts to conquer it. Winner of the Pulitzer Prize, this book is a landmark of medical writing that explores humanity's war against its most elusive enemy.",
+    "themes": [
+      "cancer",
+      "medicine",
+      "science",
+      "history",
+      "hope"
+    ],
+    "pages": 571,
+    "year": 2010,
+    "rating": 4.5
+  },
+  {
+    "title": "Gödel, Escher, Bach",
+    "author": "Douglas R. Hofstadter",
+    "genre": [
+      "Non-Fiction",
+      "Science",
+      "Philosophy",
+      "Mathematics"
+    ],
+    "mood": [
+      "mind-blowing",
+      "complex",
+      "fascinating",
+      "creative"
+    ],
+    "description": "A brilliant exploration of consciousness, self-reference, and formal systems through the work of mathematician Gödel, artist Escher, and composer Bach. Winner of the Pulitzer Prize, it's unlike any other book ever written.",
+    "themes": [
+      "consciousness",
+      "mathematics",
+      "logic",
+      "creativity",
+      "self-reference"
+    ],
+    "pages": 777,
+    "year": 1979,
+    "rating": 4.4
+  },
+  {
+    "title": "The Elegant Universe",
+    "author": "Brian Greene",
+    "genre": [
+      "Non-Fiction",
+      "Science",
+      "Physics"
+    ],
+    "mood": [
+      "enlightening",
+      "mind-blowing",
+      "educational",
+      "accessible"
+    ],
+    "description": "Physicist Brian Greene explains string theory and its promise of unifying all the forces of nature. A clear and compelling tour through the frontiers of physics, from Einstein's relativity to the 11 dimensions of M-theory.",
+    "themes": [
+      "physics",
+      "string theory",
+      "universe",
+      "space",
+      "dimensions"
+    ],
+    "pages": 448,
+    "year": 1999,
+    "rating": 4.1
+  },
+  {
+    "title": "The Sixth Extinction",
+    "author": "Elizabeth Kolbert",
+    "genre": [
+      "Non-Fiction",
+      "Science",
+      "Environment"
+    ],
+    "mood": [
+      "alarming",
+      "enlightening",
+      "thought-provoking",
+      "moving"
+    ],
+    "description": "Pulitzer Prize-winning account of Earth's sixth mass extinction, driven by human activity. Kolbert travels the world to document vanishing species and what their disappearance tells us about the future of life on Earth.",
+    "themes": [
+      "extinction",
+      "climate",
+      "evolution",
+      "ecology",
+      "humanity"
+    ],
+    "pages": 319,
+    "year": 2014,
+    "rating": 4.2
+  },
+  {
+    "title": "Astrophysics for People in a Hurry",
+    "author": "Neil deGrasse Tyson",
+    "genre": [
+      "Non-Fiction",
+      "Science",
+      "Astronomy"
+    ],
+    "mood": [
+      "enlightening",
+      "accessible",
+      "fun",
+      "educational"
+    ],
+    "description": "In under 200 pages, Neil deGrasse Tyson covers the greatest ideas in astrophysics — dark matter, dark energy, the Big Bang, and more — with wit and clarity for anyone who has wondered about the universe but lacks time for a textbook.",
+    "themes": [
+      "astrophysics",
+      "universe",
+      "cosmology",
+      "science",
+      "wonder"
+    ],
+    "pages": 222,
+    "year": 2017,
+    "rating": 4.2
+  },
+  {
+    "title": "The Body: A Guide for Occupants",
+    "author": "Bill Bryson",
+    "genre": [
+      "Non-Fiction",
+      "Science",
+      "Medicine"
+    ],
+    "mood": [
+      "fun",
+      "enlightening",
+      "educational",
+      "engaging"
+    ],
+    "description": "Bill Bryson turns his wit and curiosity to the human body, exploring how it works, what it's made of, and how little we understand about it. Fascinating, funny, and full of astonishing facts.",
+    "themes": [
+      "biology",
+      "medicine",
+      "health",
+      "anatomy",
+      "science"
+    ],
+    "pages": 449,
+    "year": 2019,
+    "rating": 4.4
+  },
+  {
+    "title": "The Double Helix",
+    "author": "James D. Watson",
+    "genre": [
+      "Non-Fiction",
+      "Science",
+      "Biography"
+    ],
+    "mood": [
+      "engaging",
+      "educational",
+      "fascinating",
+      "controversial"
+    ],
+    "description": "James Watson's personal account of the discovery of the structure of DNA — one of the greatest scientific achievements of the 20th century. A candid, sometimes controversial insider's view of science as a human enterprise.",
+    "themes": [
+      "DNA",
+      "science",
+      "discovery",
+      "biology",
+      "competition"
+    ],
+    "pages": 226,
+    "year": 1968,
+    "rating": 4.0
+  },
+  {
+    "title": "Behave",
+    "author": "Robert M. Sapolsky",
+    "genre": [
+      "Non-Fiction",
+      "Science",
+      "Biology"
+    ],
+    "mood": [
+      "enlightening",
+      "engaging",
+      "educational",
+      "thought-provoking"
+    ],
+    "description": "Neuroscientist Robert Sapolsky explores why humans behave the way they do — from the milliseconds before a behavior to its deep evolutionary roots. A masterwork synthesizing biology, neuroscience, and social science.",
+    "themes": [
+      "biology",
+      "behavior",
+      "neuroscience",
+      "evolution",
+      "morality"
+    ],
+    "pages": 790,
+    "year": 2017,
+    "rating": 4.5
+  },
+  {
+    "title": "The Innovators",
+    "author": "Walter Isaacson",
+    "genre": [
+      "Non-Fiction",
+      "Science",
+      "Technology",
+      "History"
+    ],
+    "mood": [
+      "inspiring",
+      "educational",
+      "engaging",
+      "enlightening"
+    ],
+    "description": "The history of the digital revolution told through the stories of the creative minds who built it — from Ada Lovelace to Steve Jobs. A celebration of collaboration and the human spark behind technological innovation.",
+    "themes": [
+      "technology",
+      "innovation",
+      "history",
+      "creativity",
+      "collaboration"
+    ],
+    "pages": 542,
+    "year": 2014,
+    "rating": 4.3
+  },
+  {
+    "title": "What Is Life?",
+    "author": "Erwin Schrödinger",
+    "genre": [
+      "Non-Fiction",
+      "Science",
+      "Philosophy"
+    ],
+    "mood": [
+      "profound",
+      "educational",
+      "enlightening",
+      "mind-blowing"
+    ],
+    "description": "In 1944, physicist Erwin Schrödinger asked what physics and chemistry can tell us about life. His answers anticipated the discovery of DNA and inspired a generation of molecular biologists, including Watson and Crick.",
+    "themes": [
+      "life",
+      "physics",
+      "biology",
+      "consciousness",
+      "science"
+    ],
+    "pages": 184,
+    "year": 1944,
     "rating": 4.1
   }
 ]
